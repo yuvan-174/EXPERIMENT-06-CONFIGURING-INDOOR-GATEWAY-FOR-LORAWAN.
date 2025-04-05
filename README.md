@@ -123,4 +123,5 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 
-## Results: 
+## Result: 
+The Dragino LPS8 Indoor LoRaWAN Gateway was successfully configured and connected.
